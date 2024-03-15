@@ -3,7 +3,7 @@
     <div>
       <main class="container mx-auto px-4 max-w-xl">
         <div class="flex items-baseline justify-center md:justify-between border-b border-gray-200 pb-6 pt-24">
-          <h1 class="text-4xl font-bold tracking-tight text-gray-900">Login</h1>
+          <h1 class="text-4xl font-bold tracking-tight text-gray-900">Register</h1>
         </div>
         <section aria-labelledby="login" class="pt-10 pb-24">
           <div class="bg-gray-50 p-7 rounded-lg">
@@ -18,8 +18,8 @@
               </div>
             </div>
             <div class="flex flex-col md:block pt-6">
-              <a href="/content" type="submit" class="w-full text-white bg-indigo-600 hover:bg-indigo-700 rounded-md py-3 px-4 max-w-max transform active:scale-90 transition-transform duration-100">Sign in</a>
-              <a @click="$router.push('/register')" class="cursor-pointer text-sm text-gray-500 py-2 md:mx-5 italic underline decoration-dotted">No account yet?</a>
+              <button type="submit" class="w-full text-white bg-indigo-600 hover:bg-indigo-700 rounded-md py-3 px-4 max-w-max transform active:scale-90 transition-transform duration-100">Sign up</button>
+              <a @click="$router.push('/')" class="cursor-pointer text-sm text-gray-500 py-2 md:mx-5 italic underline decoration-dotted">Already have an account?</a>
             </div>
           </div>
         </section>
