@@ -7,11 +7,6 @@
             <div class="cursor-pointer h-10 w-10 flex items-center justify-center border-dashed border-2 border-white rounded-full">
               <CakeIcon @click="$router.push(`${headerPath}`)" class="h-7 w-7 text-white" />
             </div>
-            <div id="white-logo-2" class="hidden text-white cursor-pointer">
-              <svg @click="$router.push(`${headerPath}`)" aria-hidden="true" class="flex-none w-20 h-8" fill="currentColor">
-                <use xlink:href="../icons/icons.svg#btc" />
-              </svg>
-            </div>
             <LanguageSwitcher />
           </div>
           <div v-show="checkPath" class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
