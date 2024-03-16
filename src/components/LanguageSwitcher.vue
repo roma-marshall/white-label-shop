@@ -50,14 +50,10 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
-import {
-  Listbox,
-  ListboxButton,
-  ListboxOptions,
-  ListboxOption,
-} from '@headlessui/vue'
+import { Listbox, ListboxButton, ListboxOptions, ListboxOption } from '@headlessui/vue'
 import { CheckIcon } from '@heroicons/vue/20/solid'
+
+import { ref } from 'vue'
 
 const languages = [
   { id: 1, name: 'EN' },
