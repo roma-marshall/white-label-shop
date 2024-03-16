@@ -1,0 +1,84 @@
+{
+  "mocked_products": [
+    {
+      "id": 1,
+      "name": "Earthen Bottle",
+      "color": "beige",
+      "href": "#",
+      "price": "$48",
+      "priceNumber": 48,
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+    },
+    {
+      "id": 2,
+      "name": "Nomad Tumbler",
+      "color": "olive",
+      "href": "#",
+      "price": "$35",
+      "priceNumber": 35,
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "imageAlt": "Olive drab green insulated bottle with flared screw lid and flat top."
+    },
+    {
+      "id": 3,
+      "name": "Focus Paper Refill",
+      "color": "white",
+      "href": "#",
+      "price": "$89",
+      "priceNumber": 89,
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      "imageAlt": "Person using a pen to cross a task off a productivity paper card."
+    },
+    {
+      "id": 4,
+      "name": "Machined Mechanical Pencil",
+      "color": "white",
+      "href": "#",
+      "price": "$35",
+      "priceNumber": 35,
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "imageAlt": "Hand holding black machined steel mechanical pencil with brass tip and top."
+    },
+    {
+      "id": 5,
+      "name": "Focus Card Tray",
+      "color": "beige",
+      "href": "#",
+      "price": "$64",
+      "priceNumber": 64,
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-05.jpg",
+      "imageAlt": "Stylish and compact, it keeps your cards organized and your workspace clutter-free for enhanced productivity."
+    },
+    {
+      "id": 6,
+      "name": "Focus Multi-Pack",
+      "color": "olive",
+      "href": "#",
+      "price": "$39",
+      "priceNumber": 39,
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-06.jpg",
+      "imageAlt": "With various sizes and configurations, it keeps clutter at bay and enhances productivity. Perfect for students, professionals, or home offices."
+    },
+    {
+      "id": 7,
+      "name": "Brass Scissors",
+      "color": "gold",
+      "href": "#",
+      "price": "$50",
+      "priceNumber": 50,
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-07.jpg",
+      "imageAlt": "Their sharp blades effortlessly cut through various materials, making them perfect for crafts or everyday use."
+    },
+    {
+      "id": 8,
+      "name": "Focus Carry Pouch",
+      "color": "gray",
+      "href": "#",
+      "price": "$32",
+      "priceNumber": 32,
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-08.jpg",
+      "imageAlt": "Stylish and practical, it's the perfect companion for busy individuals who value efficiency and organization."
+    }
+  ]
+}
