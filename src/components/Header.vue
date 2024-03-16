@@ -61,9 +61,10 @@
 </template>
 
 <script setup>
-import LanguageSwitcher from './LanguageSwitcher.vue'
 import { Disclosure, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue'
 import { UserIcon, ShoppingCartIcon, CakeIcon } from '@heroicons/vue/24/outline'
+
+import LanguageSwitcher from './LanguageSwitcher.vue'
 
 import { computed } from 'vue'
 
