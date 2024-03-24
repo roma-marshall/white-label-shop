@@ -5,6 +5,7 @@ import Cart from '../components/Cart.vue'
 import Content from '../components/Content.vue'
 import Profile from '../components/Profile.vue'
 import History from '../components/History.vue'
+import Checkout from '../components/Checkout.vue'
 
 const routes = [
     { path: '/', component: Login },
@@ -13,6 +14,7 @@ const routes = [
     { path: '/content', component: Content },
     { path: '/profile', component: Profile },
     { path: '/history', component: History },
+    { path: '/checkout', component: Checkout },
 ]
 
 const router = createRouter({
